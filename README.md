@@ -3,8 +3,12 @@
 > A RESTful API for an online bookstore built with Java 17 and Spring Boot 3. The system implements a complete e-commerce lifecycle - from dynamic product cataloging and security-isolated shopping carts to historical price-snapped order fulfillment. Ready for cloud scale and deployed on AWS (EC2 & RDS).
 
 ## 🎥 Demo Video & Live Preview
-📺 **[Watch the 3-minute Loom Walkthrough](https://www.loom.com/share/7124b0ce41fa43ea8c3122cee583c15c)** - *Click to watch an app walkthrough, registration and JWT authentication.*
 
+📺 **[Watch the 3-minute Loom Walkthrough](https://www.loom.com/share/7124b0ce41fa43ea8c3122cee583c15c)**
+*Full application walkthrough, user registration, and JWT authentication flow.*
+
+🚀 **[Explore Live API (Swagger UI)](http://3.78.242.21:8080/swagger-ui/index.html#/orders)**
+*Deployed on AWS EC2. Feel free to test the endpoints live.*
 ---
 
 ## 🛠️ Tech Stack
